@@ -1,4 +1,7 @@
 # jPDTP v2 Parser Installation
+## Documentation
+*   [https://github.com/datquocnguyen/jPTDP](https://github.com/datquocnguyen/jPTDP)
+
 ## Requirements
 *   python 2.7;
 *   virtualenv.

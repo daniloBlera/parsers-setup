@@ -1,4 +1,7 @@
 # TurkuNLP Setup
+## Documentation
+*   [http://turkunlp.org/Turku-neural-parser-pipeline/install.html](http://turkunlp.org/Turku-neural-parser-pipeline/install.html)
+
 ## Requirements
 *   python 3.6;
 *   virtualenv;

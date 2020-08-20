@@ -1,4 +1,7 @@
 # Setting up the Stanford Biaffine v2 Parser
+## Documentation
+*   [https://github.com/datquocnguyen/BioPosDep](https://github.com/datquocnguyen/BioPosDep)
+
 ## Requirements:
 *   Java 8 or above;
 *   Python 2.7;

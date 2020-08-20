@@ -1,13 +1,13 @@
 # SciSpaCy Setup
 These are the steps to install the `scispacy` and `spacy-conll` modules.
 
+## Documentation
+*   [https://allenai.github.io/scispacy/](https://allenai.github.io/scispacy/)
+*   [https://pypi.org/project/spacy-conll/](https://pypi.org/project/spacy-conll/)
+
 ## Requirements
 *   python 3;
 *   virtualenv.
-
-## Original Documentation
-*   https://allenai.github.io/scispacy/
-*   https://pypi.org/project/spacy-conll/
 
 ## Installation
 Create the directory for the parser and `cd` into it
